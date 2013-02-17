@@ -3,6 +3,10 @@ Snake
 A little project for practice programming skill.
 Originally this was made for my university application, now I put it on the github as an memonto.
 
+<div align="center">
+  <img src="http://farm4.staticflickr.com/3467/3348550543_77fc874db0.jpg" alt="SNAKE!"/>
+</div>
+
 Start
 =====
 Download the snake.jar and run it.
